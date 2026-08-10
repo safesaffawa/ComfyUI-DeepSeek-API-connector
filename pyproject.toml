@@ -28,7 +28,7 @@ Documentation = "https://github.com/KaigorodovTuskul/ComfyUI-DeepSeek-API-connec
 "Bug Tracker" = "https://github.com/KaigorodovTuskul/ComfyUI-DeepSeek-API-connector/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "x1de0"
 DisplayName = "ComfyUI-DeepSeek-API-connector"
 Icon = ""
 includes = [] 
